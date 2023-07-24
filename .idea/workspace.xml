@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fad04699-fbca-46a2-9ecf-e1de8288888b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BancoDio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/banco/Conta/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/banco/Conta/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/banco/Conta/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/banco/Dados/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/banco/Dados/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/banco/Interface/Interface.java" afterDir="false" />
+    <list default="true" id="fad04699-fbca-46a2-9ecf-e1de8288888b" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2T1nLjrRH8uNFwXBbuiJNx4M2xa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -60,11 +56,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690219403189</updated>
-      <workItem from="1690219404397" duration="337000" />
+      <workItem from="1690219404397" duration="785000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1690220132694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690220132694</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
